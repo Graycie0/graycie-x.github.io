@@ -6,5 +6,5 @@ function spam() {
 }
 
 function spamming() {
-    setInterval(spam, 100);
+    setInterval(spam, 10);
 }
